@@ -8,7 +8,7 @@ public class TryingMethods {
      
     }
 
-    public static String dynamicMethod1(int daysOfTheWeek){
+    String dynamicMethod1(int daysOfTheWeek){
     String days;
         switch (daysOfTheWeek) {
         case 1:
