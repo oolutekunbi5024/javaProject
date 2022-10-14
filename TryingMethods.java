@@ -10,7 +10,7 @@ public class TryingMethods {
 
     //dynamicMethod for days of the week
 
-    String dynamicMethod1(int daysOfTheWeek){
+    String weekDaysCase(int daysOfTheWeek){
     String days;
         switch (daysOfTheWeek) {
         case 1:
