@@ -4,7 +4,7 @@
 public class TryingMethods {
 
     //Dynamic Method for Score sheets
-void dynamic2(){
+void scoreCard(){
         int score=70;
     if (score>=70) {
     System.out.println("Excellent");
