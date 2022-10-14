@@ -3,6 +3,7 @@
  */
 public class TryingMethods {
 
+    //Dynamic Method for Score sheets
 void dynamic2(){
         int score=70;
     if (score>=70) {
