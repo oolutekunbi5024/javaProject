@@ -3,10 +3,7 @@
  */
 public class TryingMethods {
 
-<<<<<<< HEAD
-    public static void main(String[] args) {
-       
-    }
+    
 //first static method
     static int sum() {
     int i=1;
@@ -18,8 +15,7 @@ public class TryingMethods {
 }
     return sumValue;
     }
-}
-=======
+
     //Dynamic Method for Score sheets
 void scoreCard(){
         int score=70;
@@ -91,7 +87,3 @@ void scoreCard(){
 
 
 }
-
-
-
->>>>>>> main
