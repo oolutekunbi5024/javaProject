@@ -3,7 +3,6 @@
  */
 public class TryingMethods {
 
-<<<<<<< HEAD
     //Dynamic Method for Score sheets
 void scoreCard(){
         int score=70;
@@ -17,8 +16,6 @@ void scoreCard(){
 }
 }
     }
-}
-=======
 //forLoop
     public static void forLoop(){
         int sum=0;
@@ -79,4 +76,4 @@ void scoreCard(){
 }
 
 
->>>>>>> main
+
