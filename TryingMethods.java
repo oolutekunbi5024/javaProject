@@ -3,6 +3,19 @@
  */
 public class TryingMethods {
 
+    
+//first static method
+    static int sum() {
+    int i=1;
+        int sumValue=0;
+        while (i<1000) {
+            sumValue+= i;
+            i++;
+          
+}
+    return sumValue;
+    }
+
     //Dynamic Method for Score sheets
 void scoreCard(){
         int score=70;
@@ -74,6 +87,3 @@ void scoreCard(){
 
 
 }
-
-
-
